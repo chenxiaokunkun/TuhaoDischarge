@@ -1,0 +1,114 @@
+body{
+    background-color: #f8f8f8;/*背景色*/
+}
+
+.get_floor1{
+    /*份已经被领取/共*/
+    width: 100vw;/*宽度*/
+    height: .88rem;/*高度*/
+    color: #232323;/*字体颜色*/
+    font-size: .28rem;/*字体大小*/
+    margin-left: .2rem;/*左边距*/
+}
+
+.get_floor1>p>span{
+    /*2 5*/
+    color: #fe8828;/*字体颜色*/
+}
+
+.grt_floor2{
+    /*IZUMI底层*/
+    width: 100vw;/*宽度*/
+    background-color: white;/*背景色*/
+    border: 1px solid #e3eaf0;/*描边*/
+    padding: .2rem;/*内边距*/
+}
+
+.toux1{
+    /*头像底层*/
+    width: 1.04rem;/*宽度*/
+    height: 1.04rem;/*高度*/
+    border-radius: 50%;/*圆角*/
+    border: 1px solid #e3eaf0;/*描边*/
+    background-color: black;/*背景色*/
+    margin-right: .16rem;/*右边距*/
+}
+
+.peng{
+    /*彭于晏*/
+    width: 1.24rem;/*宽度*/
+    height: 1.24rem;/*高度*/
+    background: url("../image/peng.jpg");/*头像*/
+    background-size: cover;/*头像大小*/
+    margin-left: -.12rem;/*左边距*/
+}
+
+.floor2_box>.yuan{
+    /*IZUMI_yuan*/
+    color: #232323;/*字体颜色*/
+    font-size: .3rem;/*字体大小*/
+}
+
+.floor2_box>p{
+    /*2016-08-25*/
+    color: #999999;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+.floor2_right>.get_yibai{
+    /*100M*/
+    color: #232323;/*字体颜色*/
+    font-size: .36rem;/*字体大小*/
+}
+
+.floor2_right>p{
+    /*去激活*/
+    color: #469dff;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+
+.grt_floor3{
+    /*悟空 底层*/
+    width: 100vw;/*宽度*/
+    background-color: white;/*背景色*/
+    border-bottom: 1px solid #e3eaf0;/*描边*/
+    padding: .2rem;/*内边距*/
+}
+
+.wuk{
+    /*明星*/
+    width: 1.45rem;/*宽度*/
+    height: 1.49rem;/*高度*/
+    background: url("../image/man.jpg");/*头像*/
+    background-size: cover;/*头像大小*/
+    margin-left: -.12rem;/*左边距*/
+}
+
+
+.floor3_box>.yuan{
+    /*悟空*/
+    color: #232323;/*字体颜色*/
+    font-size: .3rem;/*字体大小*/
+}
+
+.floor3_box>p{
+    /*2016-08-25*/
+    color: #999999;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+
+.floor3_right>.get_yibai{
+    /*50M*/
+    color: #232323;/*字体颜色*/
+    font-size: .36rem;/*字体大小*/
+}
+
+
+
+
+
+
+
+

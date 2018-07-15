@@ -1,0 +1,189 @@
+
+.lanwen2{
+    /*蓝色底纹*/
+    width: 100vw;/*宽度*/
+    height: 5.32rem;/*高度*/
+    background: url("../image/landiwen2.jpg");/*背景*/
+    background-size: cover;/*背景大小*/
+}
+
+.logo_fuj2{
+    /*logo&福建移动*/
+    position: absolute;/*绝对定位*/
+    top: .2rem;/*上边距*/
+    left: .2rem;/*左边距*/
+}
+
+.logo2{
+    width: .33rem;/*宽度*/
+    height: .33rem;/*高度*/
+    margin-right: .05rem;
+}
+
+.logo_fuj2>span{
+    /*福建移动*/
+    color: white;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+.carnival{
+    /*万圣节狂欢*/
+    width: 3rem;/*宽度*/
+    height: .7rem;/*高度*/
+    color: white;/*字体颜色*/
+    font-size: .36rem;/*字体大小*/
+    border-radius:.35rem;/*圆角*/
+    margin: .78rem 0 .3rem 2.25rem;/*外边距*/
+    background-color: rgba(255,255,255,.1);/*透明色*/
+}
+
+.yibaill{
+    /*100M流量*/
+    width: 6.24rem;/*宽度*/
+}
+
+.weibu{
+    /*尾部*/
+    width: 100vw;/*宽度*/
+    height: .85rem;/*高度*/
+    background: url("../image/lanwen_di2.jpg");/*背景*/
+    background-size: cover;/*背景大小*/
+    position: absolute;/*绝对定位*/
+    top: 5.30rem;/*上边距*/
+}
+
+.su_box{
+    /*打钩 激活成功*/
+    margin-top: .2rem;/*上边距*/
+}
+
+.su_box>i{
+    /*打钩*/
+    color: #88c846;/*icon颜色*/
+    margin-right: .12rem;/*右边距*/
+}
+
+.su_box>span{
+    /*激活成功*/
+    color: #254c75;/*字体颜色*/
+    font-size: .3rem;/*字体大小*/
+}
+
+.wei{
+    /*页脚*/
+    margin: 0 .25rem;/*外边距*/
+    border-top: 1px solid rgba(185,216,251,.43);/*颜色*/
+}
+
+.su_box2{
+    margin-top: .9rem;/*上边距*/
+}
+
+.wufa{
+    /*流量红包用户无法激活同类型流量礼券*/
+    color: #849db9;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+.tongguo{
+    /*您可以通过*/
+    color: #254c75;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+    margin: .10rem 0 .36rem;/*外边距*/
+}
+
+.tongguo>span{
+    /*→我→卡包→我的票卷→赠送给朋友*/
+    color: #e7787b;/*字体颜色*/
+}
+
+.fuj{
+    /*关注福建移动，流量用不完*/
+    color: #254c75;/*字体颜色*/
+    font-size: .32rem;/*字体大小*/
+}
+
+.code_zhiwen{
+    padding: .6rem .6rem .6rem .25rem;/*内边距*/
+}
+
+.su_code{
+    /*二维码*/
+    width: 2.46rem;/*宽度*/
+    height: 2.46rem;/*高度*/
+    margin-right: .42rem;/*右边距*/
+}
+
+.zhiwenk{
+    /*指纹框*/
+    width: 2.55rem;/*宽度*/
+    height: 2.47rem;/*高度*/
+    background: url("../image/lank.png");/*框*/
+    background-size: cover;/*框大小*/
+}
+
+.beij{
+    width: 95%;
+    height: 95%;
+    position: relative;
+}
+
+.baise{
+    /*透明*/
+    width: 2rem;/*宽度*/
+    height: 2.3rem;/*高度*/
+    position: absolute;
+    top: -2rem;
+    background: -moz-linear-gradient(top,
+    rgba(238,246,255,0) 0%,
+    rgba(238,246,255,0) 1%,
+    rgba(238,246,255,0.8) 100%
+    );
+    background: -webkit-linear-gradient(top,
+    rgba(238,246,255,0) 0%,
+    rgba(238,246,255,0) 1%,
+    rgba(238,246,255,0.8) 100%
+    );
+    background: linear-gradient(to bottom,
+    rgba(238,246,255,0) 0%,
+    rgba(238,246,255,0) 1%,
+    rgba(238,246,255,0.8) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eef6ff', endColorstr='#cceef6ff',GradientType=0 );
+}
+
+@keyframes dongtai {
+    /*定义动画*/
+    0%{
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(2.3rem);
+    }
+}
+.dongtai{
+    /*执行动画*/
+    animation-name: dongtai;/*动画名称*/
+    animation-duration: 5s;/*时间*/
+    animation-timing-function: linear;/*速度从头到尾*/
+    animation-iteration-count: infinite;/*无限播放*/
+}
+
+.beij>img{
+    /*指纹*/
+    width: 1.77rem;/*宽度*/
+    height: 1.91rem;/*高度*/
+}
+
+.su_an{
+    /*长按关注*/
+    color: #093d58;/*字体颜色*/
+    font-size: .3rem;/*字体大小*/
+}
+
+
+
+
+
+
+

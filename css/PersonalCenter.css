@@ -1,0 +1,142 @@
+
+body{
+    background-color: #f8f8f8;/*背景色*/
+}
+
+#floor1{
+    /*头部宽度&高度*/
+    width: 100vw;/*宽度*/
+    height: .8rem;/*高度*/
+    padding: 0 .2rem;/*内边距*/
+    background-color: white;/*背景色*/
+}
+
+#floor1>img{
+    /*点击发红包*/
+    width: 4.75rem;/*宽度*/
+}
+
+#icon-quxiao{
+    /*取消按钮*/
+    color: #cccccc;/*icon颜色*/
+    font-size:.4rem;/*icon大小*/
+}
+
+#floor2{
+    /*蓝色_底层*/
+    width: 100vw;/*宽度*/
+    height: 2.24rem;/*高度*/
+    padding: 0 .2rem;/*内边距*/
+    background-color: #469dff;/*背景色*/
+    border-bottom: 0.01rem solid #e3eaf0;/*下描边*/
+}
+
+#floor2_header{
+    /*头像*/
+    width: .96rem;/*宽度*/
+    height: .96rem;/*高度*/
+    border-radius: 50%;/*圆角*/
+    margin-right: .2rem;/*外边距*/
+    background-color: white;/*背景色*/
+}
+
+#icon-geren{
+    /*头像_人物*/
+    color: #469dff;/*颜色*/
+    font-size: .6rem;/*icon大小*/
+}
+
+.number{
+    /*13954285415*/
+    color: white;/*字体颜色*/
+    font-size: .32rem;/*字体大小*/
+}
+
+.region{
+    /*福州 动感地带*/
+    color: white;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+#icon-jiantouyou{
+    /*右箭头*/
+    color: white;/*icon颜色*/
+    font-size: .4rem;/*icon大小*/
+}
+
+.floor3{
+    margin-top: .16rem;/*外上边距*/
+    border-top: 1px solid #e3eaf0;/*描边*/
+}
+
+.floor3>.floor3_1{
+    /*我的账单&已定业务*/
+    width: 100vw;/*宽度*/
+    padding: 0 .2rem;/*内边距*/
+    line-height: .98rem;/*高度*/
+    background-color: white;/*背景色*/
+    border-bottom: 1px solid #e3eaf0 ;/*下描边*/
+}
+
+.floor3_1>div>span{
+    /*我的账单*/
+    color: #353535;/*字体颜色*/
+    font-size: .28rem;/*字体大小*/
+    margin-left: .23rem;/*左边距*/
+}
+
+.floor3_1>div>i{
+    /*icon-icon--*/
+    color: #58a0d0;/*icon颜色*/
+    font-size: .4rem;/*icon大小*/
+}
+
+.floor3_1>i{
+    /*icon-jiantouyou*/
+    color: #cccccc;/*icon颜色*/
+    font-size: .4rem;/*icon大小*/
+}
+
+.floor3>.floor3_2{
+    /*我的账单&已定业务*/
+    width: 100vw;/*宽度*/
+    padding: 0 .2rem;/*内边距*/
+    line-height: .98rem;/*高度*/
+    background-color: white;/*背景色*/
+    border-bottom: 1px solid #e3eaf0 ;/*下描边*/
+}
+
+
+.floor3_2>div>span{
+    /*已定业务*/
+    color: #353535;/*字体颜色*/
+    font-size: .28rem;/*字体大小*/
+    margin-left: .23rem;/*左边距*/
+}
+
+.floor3_2>div>i{
+    color: #d08d3e;/*icon颜色*/
+    font-size: .4rem;/*icon大小*/
+}
+
+.floor3_2>i{
+    /*icon-jiantouyou*/
+    color: #cccccc;/*icon颜色*/
+    font-size: .4rem;/*icon大小*/
+}
+
+.floor3_2{
+    border-bottom: 1px solid #e3eaf0 ;/*下描边*/
+}
+
+
+
+
+
+
+
+
+
+
+
+

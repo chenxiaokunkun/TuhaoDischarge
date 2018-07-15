@@ -1,0 +1,21 @@
+
+
+1、PersonalCenter 个人中心
+
+2、FlowRedEnvelopes 流量红包
+   Activate 关注激活（此页面中的二维码为登录PhoneNumber页面的二维码）
+3、PhoneNumber 确认手机号码
+
+4、immediately 立即领取
+5、TakeUp 手慢了 已抢完
+6、expired 手慢了 已过期
+7、only 仅限福州市移动用户才能抢购
+8、ToReceive 您已领取
+9、history 发放历史
+10、GetTheNumber 2份已经被领取/共5份
+
+11、ActivateNow 立即激活
+     attention 长按关注（此页面中的二维码为TheActivation页面的二维码）
+12、TheActivation 立即激活（100M流量）
+
+13、successful 激活成功

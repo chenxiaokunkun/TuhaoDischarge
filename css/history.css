@@ -1,0 +1,79 @@
+body{
+    background-color: #f8f8f8;/*背景色*/
+}
+
+
+.floor1{
+    /*白色底层*/
+    width: 100vw;/*宽度*/
+    height: .88rem;/*高度*/
+    margin-top: .16rem;/*上边距*/
+    background-color: white;/*背景色*/
+    border-top: 1px solid #e3eaf0;/*上描边*/
+    border-bottom: 1px solid #e3eaf0;/*下描边*/
+}
+
+.green{
+    /*绿色*/
+    width: .2rem;/*宽度*/
+    height: .88rem;/*高度*/
+    background-color: #88c846;/*背景色*/
+}
+
+.fafang{
+    /*发放历史*/
+    color: #232323;/*字体颜色*/
+    font-size: .28rem;/*字体大小*/
+    margin-left: .19rem;/*左边距*/
+}
+
+
+.floor2{
+    /*白色底层*/
+    background-color: white;/*背景色*/
+    border: 1px solid #e3eaf0;/*描边*/
+    padding: .53rem .52rem;/*内边距*/
+    margin: .16rem .2rem;/*外边距*/
+}
+
+.floor2_font1{
+    /*100M流量券*/
+    color: #232323;/*字体颜色*/
+    font-size: .36rem;/*字体大小*/
+    margin-bottom: .24rem;/*下边距*/
+}
+
+.floor2_font2{
+    /*5已被领取*/
+    color: #999999;/*字体颜色*/
+    font-size: .28rem;/*字体大小*/
+}
+
+.floor2_font2>span{
+    /*2*/
+    color: #fe8c39;/*字体颜色*/
+}
+
+.check{
+    /*查看记录*/
+    width: 2.16rem;/*宽度*/
+    height: .80rem;/*高度*/
+    color: #469dff;/*字体颜色*/
+    font-size: .3rem;/*字体大小*/
+    border: 1px solid #469dff;/*描边*/
+    border-radius: 8px;/*圆角*/
+}
+
+.guoqi{
+    /*已过期*/
+    width: 2.16rem;/*宽度*/
+    height: .8rem;/*高度*/
+    color: #fd7a33;/*字体颜色*/
+    font-size: .3rem;/*字体大小*/
+}
+
+
+
+
+
+

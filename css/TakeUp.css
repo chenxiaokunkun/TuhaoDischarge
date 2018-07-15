@@ -1,0 +1,117 @@
+
+.lanwen2{
+    /*蓝色底纹*/
+    width: 100vw;/*宽度*/
+    height: 5.32rem;/*高度*/
+    background: url("../image/landiwen2.jpg");/*背景*/
+    background-size: cover;/*背景大小*/
+}
+
+.logo_fuj2{
+    /*logo&福建移动*/
+    position: absolute;/*绝对定位*/
+    top: .2rem;/*上边距*/
+    left: .2rem;/*左边距*/
+}
+
+.logo2{
+    width: .33rem;/*宽度*/
+    height: .33rem;/*高度*/
+    margin-right: .05rem;
+}
+
+.logo_fuj2>span{
+    /*福建移动*/
+    color: white;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+}
+
+.carnival{
+    /*万圣节狂欢*/
+    width: 3rem;/*宽度*/
+    height: .7rem;/*高度*/
+    color: white;/*字体颜色*/
+    font-size: .36rem;/*字体大小*/
+    border-radius:.35rem;/*圆角*/
+    margin: .78rem 0 .3rem 2.25rem;/*外边距*/
+    background-color: rgba(255,255,255,.1);/*透明色*/
+}
+
+.Take_dic{
+    /*手慢了 底层*/
+    width: 6.24rem;/*宽度*/
+    height: 3.04rem;/*高度*/
+    margin-left: .63rem;/*左边距*/
+    background: url("../image/dic.png") no-repeat;/*底层*/
+    background-size: cover;/*底层大小*/
+}
+
+.manle{
+    /*手慢了，已抢完*/
+    color: #dc965d;/*字体颜色*/
+    font-size: .6rem;/*字体大小*/
+}
+
+.weibu{
+    /*尾部*/
+    width: 100vw;/*宽度*/
+    height: .85rem;/*高度*/
+    background: url("../image/lanwen_di2.jpg");/*背景*/
+    background-size: cover;/*背景大小*/
+    position: absolute;/*绝对定位*/
+    top: 5.30rem;/*上边距*/
+}
+
+
+.teke_btn{
+    /*确认我的手机号码*/
+    width: 6.86rem;/*宽度*/
+    height: 1.04rem;/*高度*/
+    border-radius: 1000px;/*圆角*/
+    background-color: #469dff;/*背景色*/
+    box-shadow: inset 0 -6px 0 rgba(53,138,235,1);/*内阴影*/
+    margin: 1.56rem 0 .62rem;/*外边距*/
+    position: relative;
+}
+
+
+.teke_btngg{
+    /*高光*/
+    width: .49rem;/*宽度*/
+    position: absolute;/*绝对定位*/
+    top: .1rem;/*上边距*/
+    left: .2rem;/*左边距*/
+}
+
+.teke_jiaz{
+    /*加载*/
+    width: .3rem;/*宽度*/
+    height: .3rem;/*高度*/
+    margin-right: .1rem;/*右边距*/
+}
+
+.confirm{
+    /*确认我的手机号码*/
+    color: white;/*字体颜色*/
+    font-size: .32rem;/*字体大小*/
+}
+
+.wei{
+    /*页脚*/
+    margin: 0 .25rem;/*外边距*/
+    border-top: 1px solid rgba(185,216,251,.43);/*颜色*/
+}
+
+.phone_hdgz{
+    /*活动规则*/
+    color: #849db9;/*字体颜色*/
+    font-size: .26rem;/*字体大小*/
+    padding: .44rem 0;/*内边距*/
+}
+
+.hdgz_nr>p{
+    /*活动规则 内容*/
+    color: #849db9;/*字体颜色*/
+    font-size: .22rem;/*字体大小*/
+    line-height: .45rem;/*间距*/
+}
